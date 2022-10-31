@@ -1,5 +1,5 @@
 <h1 align="center"> Hi👋, I’m Ezequiel Sánchez </h1> 
-- I'm a FrontEnd Developer from Argentin with a proactive attitude and the ability to propose alternative Web development solutions adjusted to the needs of the current market, generating added value for customers. With experience working with teams on different projects.
+- I'm a FrontEnd Developer from Argentina with a proactive attitude and the ability to propose alternative Web development solutions adjusted to the needs of the current market, generating added value for customers. With experience working with teams on different projects.
 
 <h3>- Lenguajes and tools:</h3>
 <p>

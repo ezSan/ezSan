@@ -52,7 +52,7 @@
 
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ezSan&layout=compact
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ezSan&layout=compact&theme=onedark)](https://github.com/ezSan/github-readme-stats)
 
 <h3>- Contact:</h3>
 

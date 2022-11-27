@@ -52,7 +52,7 @@
 
 </p>
 
-![image](https://user-images.githubusercontent.com/73204198/199034000-689f29ee-100f-4176-8b9e-d288addb7240.png);
+https://github-readme-stats.vercel.app/api/top-langs/?username=ezSan&layout=compact
 
 <h3>- Contact:</h3>
 

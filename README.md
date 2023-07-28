@@ -1,78 +1,81 @@
-<h1 align="center"> Hi👋, I’m Ezequiel Sánchez </h1> 
-- I'm a FrontEnd Developer from Argentina with a proactive attitude and the ability to propose alternative Web development solutions adjusted to the needs of the current market, generating added value for customers. With experience working with teams on different projects.<br></br>
-- My goal is to keep on growing professionally within the sector of IT and develop further my knowledge and skills.
+<h1 align="center"> Hi! 👋 I'm Ezequiel Sánchez, Full Stack Developer </h1>
 
-<h3>- Lenguajes and tools:</h3>
-<p>
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>  
-  
-  
-<a href="https://reactjs.org/"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
+## About Me
 
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer based in Argentina. My main goal is to provide exceptional web solutions tailored to your needs.
 
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>  
+With a proactive attitude and years of experience in web development, I can take on new challenges and projects with enthusiasm and dedication. My experience in both sides of the stack enables me to create comprehensive and scalable web applications.
 
-<a> 
-  <img align="center" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>    
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a> 
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>   
-  
-<a> 
-  <img align="center" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>     
-  
-<a> 
-  <img align="center" src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" height="30" width="40" style="max-width:100%;">  
-</a>   
+I always strive to add value through creative and user-centered solutions. My focus is on delivering outstanding results and meeting the highest quality standards in each project I'm involved in. I enjoy working in collaborative teams and I'm passionate about learning from the latest trends and technologies.
 
+## Languages and Tools
+
+- NextJS, JavaScript, React, Redux, Formik, Yup, React Hook Forms.
+- HTML5, CSS3, Bootstrap, Material-UI.
+- Node.js, Express, YWT, Sql, noSql
+- Sass.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezSan&layout=compact&theme=dark" alt="Lenguajes más utilizados" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ezSan&layout=compact&theme=onedark)](https://github.com/ezSan/github-readme-stats)
-
-
-<h3>- Contact:</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/ezsan/"> 
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
-
-<a href="mailto:ezsandev@gmail.com"> 
-  <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="https://www.linkedin.com/in/ezsan/" height="30" width="40" style="max-width:100%;">  
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
 </p>
 
+## Contact
+
+I'd love to work with you on exciting projects! If you have any questions or need to discuss an idea, feel free to reach out to me.
+
+You can find me on:
+
+- Web: https://ezsandev-porfolio-ezsan.vercel.app/
+- LinkedIn: [linkedin.com/in/ezsan](https://www.linkedin.com/in/ezsan/)
+- Email: [ezsandev@gmail.com](mailto:ezsandev@gmail.com)
+
+Thank you for visiting my profile! I hope to have the opportunity to collaborate with you and create impressive and successful web solutions together.
 
 
 
+-------------------------------*------------------------------------------------------------------*------------------------------------------------
 
 
-<!---
-ezSan/ezSan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> ¡Hola! 👋 Soy Ezequiel Sánchez, Desarrollador Full Stack </h1>
+
+## Sobre mí
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado Desarrollador Full Stack con sede en Argentina. Mi objetivo principal es brindar soluciones web excepcionales y ajustadas a tus necesidades.
+
+Con una actitud proactiva y años de experiencia en el desarrollo web, puedo asumir nuevos desafíos y proyectos con entusiasmo y dedicación. Mi experiencia en ambas partes del stack me permite crear aplicaciones web completas y escalables.
+
+Siempre busco agregar valor a través de soluciones creativas y centradas en el usuario. Mi enfoque está en ofrecer resultados excepcionales y cumplir con los más altos estándares de calidad en cada proyecto en el que me involucro. Disfruto trabajando en equipos colaborativos y me apasiona aprender de las últimas tendencias y tecnologías.
+
+## Lenguajes y Herramientas
+
+- NextJS, JavaScript, React, Redux, Formik, Yup, React Hook Forms.
+- HTML5, CSS3, Bootstrap, Material-UI.
+- Node.js, Express, YWT, Sql, noSql
+- Sass.
+
+- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezSan&layout=compact&theme=dark" alt="Lenguajes más utilizados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+</p>
+
+## Contacto
+
+¡Me encantaría trabajar contigo en proyectos emocionantes! Si tienes alguna pregunta o necesitas discutir una idea, no dudes en contactarme.
+
+Puedes encontrarme en:
+
+- Web: https://ezsandev-porfolio-ezsan.vercel.app/
+- LinkedIn: [linkedin.com/in/ezsan](https://www.linkedin.com/in/ezsan/)
+- Email: [ezsandev@gmail.com](mailto:ezsandev@gmail.com)
+
+¡Gracias por visitar mi perfil! Espero tener la oportunidad de colaborar contigo y crear soluciones web impresionantes y exitosas juntos.
+
+

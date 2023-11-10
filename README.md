@@ -20,7 +20,7 @@ I always strive to add value through creative and user-centered solutions. My fo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&count_private=true&theme=shades-of-purple" alt="Estadísticas de GitHub" />
 </p>
 
 ## Contact
@@ -63,7 +63,7 @@ Siempre busco agregar valor a través de soluciones creativas y centradas en el 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezSan&count_private=true&theme=shades-of-purple" alt="Estadísticas de GitHub" />
 </p>
 
 ## Contacto
